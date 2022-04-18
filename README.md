@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/38495989/how-to-get-git-parent-branch-name-f
 ```git
 git merge-base UI-5636 develop
 ```
-##logging
+## logging
 ```python
 import logging
 
